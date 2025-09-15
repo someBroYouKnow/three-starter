@@ -1,0 +1,18 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "main": "script.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "di": "node server --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "three": "^0.180.0"
+  }
+}
